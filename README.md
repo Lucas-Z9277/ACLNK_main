@@ -10,16 +10,12 @@ Adversarial contrastive with leveraging negative knowledge for point of interest
 # Datasets
 1. Download raw data from following sources:
    [http:](https://drive.google.com/)
-2. Copy all files and directories to `data/new_datasets`
+2. Extract the `new_datasets.zip` file， then copy all files and directories to `data/new_datasets`
 3. Copy `glove.twitter.27B.50d.pkl` to `data/`
 
 # Configuration
-1. Download parameter settings from following sources:
-   [http:](https://drive.google.com/)
-
-2. Copy all files and directories to `./config/`
-   
-3. For example:
+1. Extract the `config.zip` file， then copy all files and directories to `./config/`
+2. For example:
    TUL task for the NYC dataset, see `./config/ACLNK_nyc_TUL.conf`
 
 # Run code
