@@ -14,7 +14,7 @@ Adversarial contrastive with leveraging negative knowledge for point of interest
 3. Copy `glove.twitter.27B.50d.pkl` to `data/`
 
 # Configuration
-1. Extract the `config.zip` file， then copy all files and directories to `./config/`
+1. Extract the `config.zip` file. Create a new folder named `config/`, then copy all files and directories to `config/`
 2. For example:
    TUL task for the NYC dataset, see `./config/ACLNK_nyc_TUL.conf`
 
