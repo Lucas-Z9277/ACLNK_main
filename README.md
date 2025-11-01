@@ -11,6 +11,7 @@ Adversarial contrastive with leveraging negative knowledge for point of interest
 1. Download raw data from following sources:
    [http:](https://drive.google.com/)
 2. Copy all files and directories to data/new_datasets
+3. Copy glove.twitter.27B.50d.pkl to data/
 
 # Configuration
 1. Download parameter settings from following sources:
