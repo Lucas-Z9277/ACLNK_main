@@ -23,8 +23,11 @@ Adversarial contrastive with leveraging negative knowledge for point of interest
    TUL task for the NYC dataset, see `./config/ACLNK_nyc_TUL.conf`
 
 # Run code
-   For example, Train model on NYC of TUL task: 
-   `python train_ACLNK.py --config config/CACSR_nyc_TUL.conf --dataroot data/`
+   1. Run `train_ACLNK.py` directly.  
+   **Note:** You can directly modify the config file path in line 24 of `train_ACLNK.py`; the file corresponds to those in `./config/`.
+
+   2. Via the command line:
+   For example, Train model on NYC of TUL task: `python train_ACLNK.py --config config/CACSR_gow_TUL.conf --dataroot data/`
 
 ## Acknowledgements
 We thank everyone who has helped our work.
