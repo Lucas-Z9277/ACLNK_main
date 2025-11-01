@@ -9,7 +9,7 @@ Adversarial contrastive with leveraging negative knowledge for point of interest
 
 # Datasets
 1. Download raw data from following sources:
-   [http:](https://drive.google.com/)
+   ([https://drive.google.com/](https://drive.google.com/drive/folders/1hSfZKnDMDXkwzeRoort4GCjJq7wx4IbX?usp=drive_link))
 2. Extract the `new_datasets.zip` file. Create a new folder named `data/new_datasets`, then copy all files and directories to `data/new_datasets`
 3. Copy `glove.twitter.27B.50d.pkl` to `data/`
 
